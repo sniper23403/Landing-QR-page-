@@ -54,8 +54,7 @@ h3{
 
 /* Scan the QR code to visit the front end Mentor and take your coding skills to the next level */
 
-p:nth-last-child(1)
-{
+p{
   position: absolute;
   width: 262px;
   height: 57px;
