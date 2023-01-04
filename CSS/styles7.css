@@ -71,3 +71,21 @@ p{
   left: 271px;
 }
 
+/* Challenge by Frontend Mentor. Coded by Slyrak Dragonblood. */
+
+div{
+  position: absolute;
+  width: 414px;
+  height: 19px;
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  text-align: center;
+  color: #000000;
+  top:660px;
+  left:189px;
+}
+  
+
