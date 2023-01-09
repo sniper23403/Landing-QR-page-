@@ -3,6 +3,11 @@ body{
   width: 1440px;
   background: #D6E2F0;
   font-family: 'Outfit';
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 /* Rectangle 2 */
@@ -54,8 +59,8 @@ p{
 
   footer{
     margin-left: 550px;
-    margin-top: 20px;
-    color: #1F3251;;
+    margin-top: 15px;
+    color: #1F3251;
   }
 
   /* Hiding class, making content visible only to screen readers but not visually */
